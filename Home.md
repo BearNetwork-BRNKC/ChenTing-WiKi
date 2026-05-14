@@ -44,13 +44,6 @@
 - **[Facebook 官方粉絲專頁](https://www.facebook.com/bearnetwork.net/)**
 - **[Facebook 陳霆 個人專頁](https://www.facebook.com/chenting168/)**
 
-### 🤖 AI 研究
-- 大型語言模型微調方法論 *(研究筆記，即將上線)*
-- ARI 信任模型與數位物理框架 *(研究筆記，即將上線)*
-
-### 🛠️ Wiki 工具
-- [[人物頁面模板|Templates/Template_Person]] — 新增人物頁面時使用
-
 ---
 
 ## 📋 最近更新

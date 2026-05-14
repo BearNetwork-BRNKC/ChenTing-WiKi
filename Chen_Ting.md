@@ -1,27 +1,54 @@
-| **陳霆 (Chen Ting)** |
-| :---: |
-| <img src="https://github.com/BearNetwork-BRNKC/ChenTing-WiKi/blob/caac24394a79c0dacb5d3f5611858c707606de06/assets/ChenTing_%E9%99%B3%E9%9C%86.jpg" width="250" alt="Chen Ting Profile"> |
-| *區塊鏈創辦人 / AI 訓練師 / 空間設計專家* |
-| **個人資料** | |
-| --- | --- |
-| **國籍** | 🇹🇼 中華民國（臺灣） |
-| **現職** | 熊網區塊鏈 執行長兼 CTO<br>築御空間美學設計 負責人 |
-| **學術教職** | 中國閩南師範大學 講師<br>東海大學 室設 3D 講師 |
-| **社會職務** | 臺中市室內設計文教協會 創辦人 |
-| **專業領域** | 區塊鏈底層架構、Γ 物理引擎、AI 大型語言模型訓練、室內設計、3D 建模模擬 |
-| **知名作品** | BearNetworkChain、BNES Engine Spec、Γ (Gamma) 物理核心 |
-| **配偶** | 林碧芬 |
-| **子女** | 陳書涵 (長女)<br>陳胤凱 (長子) |
-| **社群平台** | [Facebook](https://www.facebook.com/chenting168/) ｜ [X (Twitter)](https://x.com/CT_BearNetwork) |
-| **GitHub** | [github.com/BearNetwork-BRNKC](https://github.com/BearNetwork-BRNKC/) |
-
----
-
-## 摘要
-
-**陳霆 (Chen Ting)** 是一位活躍於技術創新、學術教育與空間藝術的跨領域專家。他目前擔任 **BearNetworkChain (熊網區塊鏈)** 的執行長與首席技術長，以「物理引擎即數位法律」的核心理念，主導研發基於 Γ (Gamma) 物理核心的去中心化底層公鏈。
-
-同時，他在人工智慧語言模型訓練及室內設計學術領域擁有深厚影響力，是橫跨多個專業領域的複合型創新者。
+<table width="100%" border="0">
+  <tr>
+    <td width="78%" valign="top" style="border: none;">
+      <p><strong style="font-size: 2.2em;">陳霆 (Chen Ting)</strong></p>
+      <p><em style="font-size: 1.1em; color: #57606a;">區塊鏈創辦人 / AI 訓練師 / 空間設計專家</em></p>
+      <br>
+      <p><b>陳霆 (Chen Ting)</b> 是一位活躍於技術創新、學術教育與空間藝術的跨領域專家。他目前擔任 <b>BearNetworkChain (熊網區塊鏈)</b> 的執行長與首席技術長，以「物理引擎即數位法律」的核心理念，主導研發基於 Γ (Gamma) 物理核心的去中心化底層公鏈。</p>
+      <p>同時，他在人工智慧語言模型訓練及室內設計學術領域擁有深厚影響力，是橫跨多個專業領域的複合型創新者。</p>
+    </td>
+    <td width="22%" valign="top" style="border: none;">
+      <table width="100%" style="border: 1px solid #d0d7de; border-collapse: collapse;">
+        <tr style="background-color: #f6f8fa;">
+          <th colspan="2" style="padding: 8px; text-align: center; border-bottom: 1px solid #d0d7de;">陳霆 (Chen Ting)</th>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding: 10px; text-align: center;">
+            <img src="https://raw.githubusercontent.com/BearNetwork-BRNKC/ChenTing-WiKi/caac24394a79c0dacb5d3f5611858c707606de06/assets/ChenTing_%E9%99%B3%E9%9C%86.jpg" width="180" alt="Chen Ting Profile"><br>
+            <small><i>區塊鏈創辦人 / AI 訓練師</i></small>
+          </td>
+        </tr>
+        <tr style="background-color: #f6f8fa;">
+          <th colspan="2" style="padding: 4px; text-align: center; border-top: 1px solid #d0d7de; border-bottom: 1px solid #d0d7de; font-size: 0.9em;">個人資料</th>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;"><b>國籍</b></td>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;">🇹🇼 中華民國</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;"><b>現職</b></td>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;">熊網鏈 CEO/CTO<br>築御設計 負責人</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;"><b>教職</b></td>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;">閩南師大/東海 講師</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;"><b>社會職務</b></td>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;">室內設計協會 創辦人</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;"><b>知名作品</b></td>
+          <td style="padding: 6px; border-bottom: 1px solid #d0d7de;">BearNetworkChain</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px;"><b>家庭</b></td>
+          <td style="padding: 6px;">林碧芬 (配偶)<br>陳書涵、陳胤凱</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
