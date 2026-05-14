@@ -1,4 +1,4 @@
-# 🐻 ChenTing-WiKi — 陳霆的個人知識庫
+# 🐻 ChenTing-陳霆 WiKi
 
 > 「物理引擎不僅僅是模擬，它是數位世界的法律。」— Chen Ting
 
