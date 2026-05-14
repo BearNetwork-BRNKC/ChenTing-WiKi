@@ -52,6 +52,3 @@
 | 2026-05-14 | 模板 | Templates/Template_Person | 建立人物頁面標準模板 |
 
 ---
-
-> [!NOTE]
-> 本 Wiki 由 **陳霆 (Chen Ting)** 親自維護，所有內容均代表其個人立場與研究成果。
