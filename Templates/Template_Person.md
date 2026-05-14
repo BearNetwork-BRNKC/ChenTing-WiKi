@@ -7,11 +7,11 @@
 
 | **姓名 (英文名)** |
 | :---: |
-| ![個人頭像](../assets/profile_placeholder.png) |
+| ![個人頭像](https://github.com/BearNetwork-BRNKC/ChenTing-WiKi/blob/caac24394a79c0dacb5d3f5611858c707606de06/assets/ChenTing_%E9%99%B3%E9%9C%86.jpg) |
 | *職稱 / 簡短描述* |
 | **基本資料** | |
 | --- | --- |
-| **出生** | 19XX年X月X日 |
+| **出生** | 1975年12月30日 |
 | **居住地** | 台灣 |
 | **國籍** | 中華民國 |
 | **專業領域** | 寫下您的專業 |
@@ -27,8 +27,8 @@
 詳細描述該人物在專業領域的貢獻。
 
 ## 相關連結
-- [GitHub](https://github.com/...)
-- [個人網站](https://...)
+- [GitHub](https://github.com/BearNetwork-BRNKC)
+- [個人網站](https://www.facebook.com/chenting168)
 
 ---
 [[返回模版列表|Templates/Home]]
