@@ -12,7 +12,8 @@
 | **知名作品** | BearNetworkChain、BNES Engine Spec、Γ (Gamma) 物理核心 |
 | **配偶** | 林碧芬 |
 | **子女** | 陳書涵 (長女)<br>陳胤凱 (長子) |
-| **GitHub** | [github.com/BearNetwork-BRNKC](https://github.com/BearNetwork-BRNKC) |
+| **社群平台** | [Facebook](https://www.facebook.com/chenting168/) ｜ [X (Twitter)](https://x.com/CT_BearNetwork) |
+| **GitHub** | [github.com/BearNetwork-BRNKC](https://github.com/BearNetwork-BRNKC/) |
 
 ---
 
@@ -73,11 +74,27 @@
 
 ## 相關連結
 
-| 類別 | 連結 |
+### 🐻 BearNetworkChain 生態系
+| 項目 | 連結 |
 | :--- | :--- |
-| 個人 GitHub | [github.com/BearNetwork-BRNKC](https://github.com/BearNetwork-BRNKC) |
-| BearNetworkChain 官網 | [bearnetworkchain.org](https://bearnetworkchain.org) |
-| BNES 物理引擎規格 | [GitHub Repository](https://github.com/BearNetwork-BRNKC/BearNetworkChain-Physics-Engine-Canonical-Definition) |
+| **官方網站** | [bearnetwork.net](https://bearnetwork.net/) |
+| **白皮書 (Whitepaper)** | [docs.bearnetwork.net/about/whitepaper](https://docs.bearnetwork.net/about/whitepaper) |
+| **數位物理知識庫** | [digitalphysics.bearnetwork.net](https://digitalphysics.bearnetwork.net/) |
+| **官方 Facebook** | [facebook.com/bearnetwork.net](https://www.facebook.com/bearnetwork.net/) |
+
+### 💻 開源與技術資源
+| 項目 | 連結 |
+| :--- | :--- |
+| **GitHub 組織** | [github.com/BearNetwork-BRNKC](https://github.com/BearNetwork-BRNKC/) |
+| **BNES 物理引擎規格** | [BearNetworkChain-Physics-Engine](https://github.com/BearNetwork-BRNKC/BearNetworkChain-Physics-Engine-Canonical-Definition) |
+| **BNES SDK** | [github.com/BearNetwork-BRNKC/bnessdk](https://github.com/BearNetwork-BRNKC/bnessdk/) |
+| **AI 訓練資料集** | [Huggingface: bnes_dataset.json](https://huggingface.co/datasets/BearNetworkChain/DigitalPhysics/blob/main/bnes_dataset.json) |
+
+### 👤 個人社群
+| 平台 | 連結 |
+| :--- | :--- |
+| **Facebook** | [陳霆 (Chen Ting)](https://www.facebook.com/chenting168/) |
+| **X (Twitter)** | [@CT_BearNetwork](https://x.com/CT_BearNetwork) |
 
 ---
 
