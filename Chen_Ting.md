@@ -1,6 +1,6 @@
 | **陳廷 (Chen Ting)** |
 | :---: |
-| <img src="./assets/ChenTing_陳霆.jpg" width="250" alt="Chen Ting Profile"> |
+| <img src="https://github.com/BearNetwork-BRNKC/ChenTing-WiKi/blob/caac24394a79c0dacb5d3f5611858c707606de06/assets/ChenTing_%E9%99%B3%E9%9C%86.jpg" width="250" alt="Chen Ting Profile"> |
 | *熊網區塊鏈 創辦人 / AI 訓練師 / 空間設計專家* |
 | **個人資料** | |
 | --- | --- |
