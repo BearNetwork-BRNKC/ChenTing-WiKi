@@ -9,8 +9,3 @@
 - [BNES 物理引擎規格](https://github.com/BearNetwork-BRNKC/BearNetworkChain-Physics-Engine-Canonical-Definition)
 
 ---
-
-## 🛠️ Wiki 工具
-- [[人物模板|Templates/Template_Person]]
-
----
