@@ -93,9 +93,8 @@
 
 ## 著作與研究
 
-- BearNetworkChain Γ 物理引擎深層分析報告
-- 數位物理與去中心化信任模型
-- BearNetworkChain BNES 正式規格文件集
+- BearNetworkchain Execution Specification
+- Execution-Bound Artifact Reconstruction Layer
 
 ---
 
@@ -108,6 +107,7 @@
 | **白皮書 (Whitepaper)** | [docs.bearnetwork.net/about/whitepaper](https://docs.bearnetwork.net/about/whitepaper) |
 | **數位物理知識庫** | [digitalphysics.bearnetwork.net](https://digitalphysics.bearnetwork.net/) |
 | **官方 Facebook** | [facebook.com/bearnetwork.net](https://www.facebook.com/bearnetwork.net/) |
+| **Orcid** | [0009-0009-3511-2970](https://orcid.org/0009-0009-3511-2970) |
 
 ### 💻 開源與技術資源
 | 項目 | 連結 |
