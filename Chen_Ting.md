@@ -93,8 +93,8 @@
 
 ## 著作與研究
 
-- BearNetworkchain Execution Specification
-- Execution-Bound Artifact Reconstruction Layer
+- BearNetworkchain Execution Specification Canonical DOI: [doi:10.5281/zenodo.20369740](https://doi.org/10.5281/zenodo.20369740),[doi:10.5281/zenodo.20370698](https://doi.org/10.5281/zenodo.20370699)
+- Execution-Bound Artifact Reconstruction Layer Canonical DOI: [doi:10.5281/zenodo.20372985](https://doi.org/10.5281/zenodo.20372985)
 
 ---
 
