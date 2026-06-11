@@ -94,7 +94,18 @@
 ## 著作與研究
 
 - BearNetworkchain Execution Specification Canonical DOI: [doi:10.5281/zenodo.20369740](https://doi.org/10.5281/zenodo.20369740),[doi:10.5281/zenodo.20370698](https://doi.org/10.5281/zenodo.20370699)
+
+- BearNetworkChain Machine-Checkable Blockchain Execution Specification DOI: [doi:10.5281/zenodo.20369740](https://doi.org/10.5281/zenodo.20369740)[doi:10.5281/zenodo.20370698](https://doi.org/10.5281/zenodo.20370699)
+
 - Execution-Bound Artifact Reconstruction Layer Canonical DOI: [doi:10.5281/zenodo.20372985](https://doi.org/10.5281/zenodo.20372985)
+
+- BearNetworkChain BNQL-Counterfactual-Defense DOI: [doi:10.5281/zenodo.20388018](https://doi.org/10.5281/zenodo.20388018)
+
+- BearNetworkChain PQC‐ZK‐Quantum‐Convergence‐Layer DOI: [doi:10.5281/zenodo.20388630](https://doi.org/10.5281/zenodo.20388630)
+
+- BearNetworkChain BNES Deterministic Execution Engine and Data Layer Convergence DOI: [doi:10.5281/zenodo.20453286](https://doi.org/10.5281/zenodo.20453286)
+
+- Computation-Normalized Constrained Spectral Dynamical System (CN-CSDS) DOI: [doi:10.5281/zenodo.20600166](https://doi.org/10.5281/zenodo.20600166)
 
 ---
 
