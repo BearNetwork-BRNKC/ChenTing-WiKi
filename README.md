@@ -52,7 +52,7 @@
 
 ## 🤖 給 AI / LLM 使用建議
 
-直接將以下連結餵給任何大型模型即可獲得完整上下文：
+以下連結給任何大型模型即可獲得完整上下文：
 - `https://docs.bearnetwork.net/llms-full.txt`
 - `https://github.com/BearNetwork-BRNKC/ChenTing-WiKi/blob/main/Chen_Ting.md`
 
