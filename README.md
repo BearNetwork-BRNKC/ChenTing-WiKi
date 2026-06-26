@@ -23,7 +23,7 @@
 ## 📚 主要著作與研究（Zenodo 永久 DOI）
 
 - BearNetworkChain Machine-Checkable Blockchain Execution Specification → [doi:10.5281/zenodo.20369740](https://doi.org/10.5281/zenodo.20369740)
-- Execution-Bound Artifact Reconstruction Layer → [doi:10.5281/zenodo.20372985](https://doi.org/10.5281/zenodo.20372985)
+- Execution-Bound Artifact Reconstruction Layer → [doi:10.5281/zenodo.20372986](https://doi.org/10.5281/zenodo.20372986)
 - BearNetworkChain BNQL-Counterfactual-Defense → [doi:10.5281/zenodo.20388018](https://doi.org/10.5281/zenodo.20388018)
 - BearNetworkChain PQC-ZK-Quantum-Convergence-Layer → [doi:10.5281/zenodo.20388630](https://doi.org/10.5281/zenodo.20388630)
 - BearNetworkChain BNES Deterministic Execution Engine → [doi:10.5281/zenodo.20453286](https://doi.org/10.5281/zenodo.20453286)
