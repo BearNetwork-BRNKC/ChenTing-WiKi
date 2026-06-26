@@ -60,7 +60,7 @@
 作為 **BearNetworkChain (熊網區塊鏈)** 的掌舵者，陳霆不僅確立了組織的戰略方向，更以宏觀的視野推動區塊鏈技術的落地應用。他帶領團隊突破傳統共識機制的瓶頸，提出「物理引擎即數位法律」的創新理念，並積極佈局全球區塊鏈生態系，致力於打造具備極高擴展性與安全性的次世代去中心化網路。
 
 ### ⚙️ 熊網區塊鏈 首席技術長 (CTO)
-在技術執行層面，陳霆親自擔綱 CTO 角色，主導 **BNES (BearNetworkChain Engine Spec)** 核心規格的設計與 **Γ (Gamma) 物理引擎** 的開發。他以深厚的底層架構功底，確保了系統的零配置 (RF-ZERO) 效能與 PQC/ZK 密碼學信任根的安全。他的技術決策直接奠定了 BearNetworkChain 達到每秒 1600 萬次交易 (TPS) 理論極限的技術基石。
+在技術執行層面，陳霆親自擔綱 CTO 角色，主導 **BNES (BearNetworkChain Engine Spec)** 核心規格的設計與 **Γ (Gamma) 物理引擎** 的開發。他以深厚的底層架構功底，確保了系統的零配置 (RF-ZERO) 效能與 PQC/ZK 密碼學信任根的安全。他的技術決策直接奠定了 BearNetworkChain 達到每秒工業級理論極限的技術基石。
 
 ### 🤖 AI 大型自然語言訓練師
 在人工智慧領域，陳霆深研大型語言模型 (LLM) 的指令微調 (Instruction Fine-tuning) 與語意邏輯優化。他負責建構與驗證 BearNetworkChain 生態系的專屬 AI 訓練數據集 (如 BNES dataset)，確保 AI 模型能精準理解並推理複雜的物理引擎規格與區塊鏈架構，推動「區塊鏈 + AI」的深度融合與自動化營運。
@@ -97,7 +97,7 @@
 
 - BearNetworkChain Machine-Checkable Blockchain Execution Specification DOI: [doi:10.5281/zenodo.20369740](https://doi.org/10.5281/zenodo.20369740)[doi:10.5281/zenodo.20370698](https://doi.org/10.5281/zenodo.20370699)
 
-- Execution-Bound Artifact Reconstruction Layer Canonical DOI: [doi:10.5281/zenodo.20372985](https://doi.org/10.5281/zenodo.20372985)
+- Execution-Bound Artifact Reconstruction Layer Canonical DOI: [doi:10.5281/zenodo.20372986](https://doi.org/10.5281/zenodo.20372986)
 
 - BearNetworkChain BNQL-Counterfactual-Defense DOI: [doi:10.5281/zenodo.20388018](https://doi.org/10.5281/zenodo.20388018)
 
